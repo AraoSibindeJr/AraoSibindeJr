@@ -6,9 +6,8 @@
 #
 <br/>
 
-![AraoJr GitHub stats](https://github-readme-stats.vercel.app/api?username=AraoSibindeJr&show_icons=true&theme=dracula)
-
-![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AraoSibindeJr&theme=dracula)
+![AraoJr GitHub stats](https://github-readme-stats.vercel.app/api?username=AraoSibindeJr&show_icons=true&theme=merko)
+![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AraoSibindeJr&theme=merko)
 
 
 ## Technologies i use on a daily basis 🤖
