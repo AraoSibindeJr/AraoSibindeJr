@@ -16,8 +16,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-B22222?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sibindearao?s=21)
 
 
-![AraoJr GitHub stats](https://github-readme-stats.vercel.app/api?username=AraoSibindeJr&show_icons=true&theme=merko)
-![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AraoSibindeJr&theme=merko)
+![AraoJr GitHub stats](https://github-readme-stats.vercel.app/api?username=AraoSibindeJr&show_icons=true&locale=en&theme=merko)
+![Most used Language](https://github-readme-stats.vercel.app/api/top-langs?username=AraoSibindeJr&show_icons=true&locale=en&theme=merko)
 
 <h1 align="center">
   Technologies i use on a daily basis 🤖
@@ -35,12 +35,11 @@
 
   
 </div>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AraoSibindeJr&theme=merko" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img  alt="Most Used PL" src="https://github-readme-streak-stats.herokuapp.com/?user=AraoSibindeJr&theme=merko" />
-</div>
 
- 
  <h4 align="center">
    <i>
      "Each line of code is a new challenge and an opportunity to create something amazing."
