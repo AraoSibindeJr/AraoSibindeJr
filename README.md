@@ -19,8 +19,8 @@
 ![AraoJr GitHub stats](https://github-readme-stats.vercel.app/api?username=AraoSibindeJr&show_icons=true&theme=merko)
 ![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AraoSibindeJr&theme=merko)
 
-<h1 
-  align="center"> Technologies i use on a daily basis 🤖
+<h1 align="center">
+  Technologies i use on a daily basis 🤖
 </h1>
 
 <div  align="center" style="display: inline_block">
@@ -31,12 +31,13 @@
   <img  alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-<div 
-  align="center">
+<div align="center">
   <img  alt="Most Used PL" src="https://github-readme-streak-stats.herokuapp.com/?user=AraoSibindeJr&theme=merko" />
 </div>
 
  
- <p align="center">
-   'Each line of code is a new challenge and an opportunity to create something amazing.' 🚀💻
- </p>
+ <h4 align="center">
+   <i>
+     "Each line of code is a new challenge and an opportunity to create something amazing."
+   </i> 🚀💻
+ </h4>
