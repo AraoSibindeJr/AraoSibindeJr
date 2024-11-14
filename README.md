@@ -35,9 +35,10 @@
 
   
 </div>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AraoSibindeJr&theme=merko" alt="GitHub Streak" />
-</p>
+<div 
+  align="center">
+  <img  alt="Most Used PL" src="https://github-readme-streak-stats.herokuapp.com/?user=AraoSibindeJr&theme=merko" />
+</div>
 
 
  <h4 align="center">
