@@ -16,7 +16,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-B22222?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sibindearao?s=21)
 
 
-![AraoJr GitHub stats](https://github-readme-stats.vercel.app/api?username=AraoSibindeJr&show_icons=true&theme=github_dark)![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AraoSibindeJr&hide_progress=false&theme=github_dark)
+![AraoJr GitHub stats](https://github-readme-stats.vercel.app/api?username=AraoSibindeJr&show_icons=true&theme=github_dark)
+![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AraoSibindeJr&hide_progress=false&theme=github_dark)
 
 <h1 align="center">
   Technologies i use on a daily basis 🤖
