@@ -16,8 +16,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-B22222?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sibindearao?s=21)
 
 
-![AraoJr GitHub stats](https://github-readme-stats.vercel.app/api?username=AraoSibindeJr&show_icons=true&locale=en&theme=merko)
-![Most used Language](https://github-readme-stats.vercel.app/api/top-langs?username=AraoSibindeJr&show_icons=true&locale=en&theme=merko)
+![AraoJr GitHub stats](https://github-readme-stats.vercel.app/api?username=AraoSibindeJr&show_icons=true&theme=github_dark)
+![Most used Language](https://github-readme-stats.vercel.app/api/top-langs?username=AraoSibindeJr&layout=donut-vertical&show_icons=true&locale=en&theme=github_dark)
 
 <h1 align="center">
   Technologies i use on a daily basis 🤖
@@ -37,8 +37,8 @@
 </div>
 <div 
   align="center">
-  <img  alt="Most Used PL" src="https://github-readme-streak-stats.herokuapp.com/?user=AraoSibindeJr&theme=merko" />
-</div>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ashen-tau.vercel.app?user=AraoSibindeJr&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+</div> 
 
 
  <h4 align="center">
