@@ -17,7 +17,7 @@
 
 
 ![AraoJr GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AraoSibindeJr&theme=tokyonight)
-![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AraoSibindeJr&hide_progress=false&theme=tokyonight)
+![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AraoSibindeJr&hide_progress=false&hide_border=true&theme=tokyonight)
 
 <h1 align="center">
   Technologies i use on a daily basis 🤖
