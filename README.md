@@ -8,7 +8,7 @@
 <p align="center">
 <h1 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=AraoSibindeJr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-  </a>
+   </a>
 
   
 [![Instagram](https://img.shields.io/badge/Instagram-8B4513?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/araozinn_?igsh=d3Z4aDl0NG1qcDl2&utm_source=qr)
