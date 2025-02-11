@@ -13,7 +13,6 @@
 
   
 [![Instagram](https://img.shields.io/badge/Instagram-8B4513?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/araozinn_?igsh=d3Z4aDl0NG1qcDl2&utm_source=qr)
-[![Telegram](https://img.shields.io/badge/Telegram-800080?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Araozinn10)
 [![Twitter](https://img.shields.io/badge/Twitter-B22222?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sibindearao?s=21)
 
 
